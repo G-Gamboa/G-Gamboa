@@ -36,9 +36,9 @@ Sistema de apoyo a líneas de ayuda psicológica que estima riesgo de crisis emo
 
 ## Estadísticas
 
-[![Estadisticas](https://github-readme-stats.vercel.app/api?username=G-Gamboa&theme=dark&hide_border=true&show_icons=true&locale=es&count_private=true)](https://github.com/G-Gamboa)
 [![Racha](https://github-readme-streak-stats.herokuapp.com?user=G-Gamboa&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-[![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Gamboa&theme=dark&hide_border=true&layout=compact&locale=es&langs_count=8)](https://github.com/G-Gamboa)
+
+[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=G-Gamboa&theme=github-compact&hide_border=true&area=true&radius=8)](https://github.com/G-Gamboa)
 
 ---
 
