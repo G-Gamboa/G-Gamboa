@@ -2,7 +2,7 @@
 
 **Desarrollador Fullstack**
 
-Construyo aplicaciones web de extremo a extremo: modelado de datos, APIs, interfaces y despliegue. Trabajo principalmente con TypeScript/Next.js y Python/FastAPI, y me enfoco en llevar productos hasta producción. Mi proyecto más reciente, [GGStore](https://gg-store-plum.vercel.app), es una tienda en línea que opera en producción.
+Construyo aplicaciones web de extremo a extremo: modelado de datos, APIs, interfaces y despliegue. Trabajo principalmente con TypeScript/Next.js y Python/FastAPI, y me enfoco en llevar productos hasta producción. Mi proyecto más reciente, [GGStore](https://www.ggstore.lat/), es una tienda en línea que opera en producción.
 
 ---
 
@@ -15,7 +15,7 @@ Construyo aplicaciones web de extremo a extremo: modelado de datos, APIs, interf
 ## Proyectos destacados
 
 **[GGStore](https://github.com/G-Gamboa/GGStore)** · Next.js, TypeScript, Prisma, PostgreSQL, Cloudinary, Docker
-Tienda en línea en producción. Catálogo con filtros, carrito integrado a WhatsApp, panel administrativo con autenticación, dashboard de métricas e importación masiva por CSV. [Demo](https://gg-store-plum.vercel.app)
+Tienda en línea en producción. Catálogo con filtros, carrito integrado a WhatsApp, panel administrativo con autenticación, dashboard de métricas e importación masiva por CSV. [Demo](https://www.ggstore.lat/)
 
 **[SistemaDicri](https://github.com/G-Gamboa/SistemaDicri)** · React, Express, SQL Server, Docker Compose, JWT
 Plataforma fullstack para gestión de expedientes e indicios criminalísticos. Autenticación por roles, flujo de aprobación, historial de estados y stored procedures.
